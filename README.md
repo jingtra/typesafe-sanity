@@ -1,6 +1,6 @@
-# sanity: Typesafe Sanity manager for queries
+# typesafe-sanity: Typesafe Sanity manager for queries
 
-Typesafe utilities and wrappers for cached queries to sanity. We use the name sanity, since we built a sanity client v1 without typesafety.
+Typesafe utilities and wrappers for cached queries to sanity. 
 
 ###Get started
 First,  create a Sanity Client
