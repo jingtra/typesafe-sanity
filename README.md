@@ -2,7 +2,7 @@
 
 Typesafe utilities and wrappers for cached queries to sanity. 
 
-###Get started
+### Get started
 First,  create a Sanity Client
 ```
 import {createSanityClient, SanityClientAPI}  from "@konsus/sanity"
@@ -25,7 +25,7 @@ import {SanityReducer} from  "@konsus/sanity";
 ```
 
 
-###How to use 
+### How to use 
 
 This is how you create a SanityQuery
 ```
