@@ -28,6 +28,8 @@ import {SanityReducer} from  "@konsus/sanity";
 ### How to use 
 
 This is how you create a SanityQuery
+You create a query by calling createSanityQuery<Params, Ret>(query: string),
+where Params is the parameters of the query, and Ret the return-value. An example is:
 ```
 import { createSanityQuery } from "@konsus/sanity";
 import Product from "../api/Product";
